@@ -154,6 +154,14 @@ function responsive(val)
             $(".wings_flavors").css({'width': '78%', 'padding': '50px 0px'});
             $(".bg_3").css({'width': '1621px', 'height': '550px', 'top': '-15px', 'left': '-108px'});
             $(".wings_title").css({'margin-top': '0px'});
+            $(".menu_items_wrapper").css({'gap': '60px', 'padding-top': '31px',});
+            $(".menu_items_single").css({'gap': '10px'});
+            $(".price-two-box-section").css({'margin-top': '0px'});
+            $(".bg_2").css({'top': '-60px','left': '-25px','width': '520px', 'height': '594px'});
+            $(".heading3").css({'margin-top': '0px'});
+            $(".heading3").css({'margin-top': '0px'});
+            $("#head_4").css({'font-size': '46px'});
+            $(".price-box1").css({'padding': '20px 20px'});
             
             // **
             // $(".header-content").css({'width': ''});

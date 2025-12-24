@@ -22205,7 +22205,7 @@ input:focus {
     z-index: 2;
 }
 #head_1 {
-    max-width: 83%;
+    max-width: 84%;
     margin-left: 51px;
 }
 .header-content {
@@ -22608,7 +22608,6 @@ input:focus {
   text-align: start;
   margin: 0;
   /* margin-bottom: 23px; */
-  font-family: "Agdasima", sans-serif;
   background: transparent;
 }
 .relative_post {
