@@ -233,7 +233,7 @@ function responsive(val)
             $("#head_6").css({'font-size': '', 'height': ''});
             $(".absoluteimg").css({'width': '','right': ''});
             $(".absoluteimg3").css({'width': '', 'height': '', 'top': '', 'right': ''});
-            $(".wings_flavors").css({'width': '78%', 'padding': '50px 0px'});
+            $(".wings_flavors").css({'width': '', 'padding': ''});
             $(".bg_3").css({'width': '', 'height': '', 'top': '', 'left': ''});
             $(".wings_title").css({'margin-top': ''});
             $(".menu_items_wrapper").css({'gap': '', 'padding-top': '',});
@@ -268,7 +268,7 @@ function responsive(val)
             $("#head_6").css({'font-size': '', 'height': ''});
             $(".absoluteimg").css({'width': '','right': ''});
             $(".absoluteimg3").css({'width': '', 'height': '', 'top': '', 'right': ''});
-            $(".wings_flavors").css({'width': '78%', 'padding': '50px 0px'});
+            $(".wings_flavors").css({'width': '', 'padding': ''});
             $(".bg_3").css({'width': '', 'height': '', 'top': '', 'left': ''});
             $(".wings_title").css({'margin-top': ''});
             $(".menu_items_wrapper").css({'gap': '', 'padding-top': '',});
