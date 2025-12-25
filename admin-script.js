@@ -167,7 +167,7 @@ function responsive(val)
         else if ((window.screen.width) >= '1267' && (window.screen.width) <= '1367') 
         {
 
-            $(".bg_1").css({'width': '596px','height': '554px', 'top': '-97px', 'left': '-66px'});
+            $(".bg_1").css({'width': '565px','height': '554px', 'top': '-97px', 'left': '-66px'});
             $(".heading").css({'width': '97%','margin-bottom': '0px'});
             $(".htilr").css({'font-size': '37px'});
             $("#head_1").css({'margin-left': '114px','font-size': '37px'});
