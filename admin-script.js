@@ -214,105 +214,72 @@ function responsive(val)
         } 
         else
         {
-            $(".header-content").css({'width': ''});
-            $(".single-price").css({'font-size' :''});
-            $(".thirdItem").css({'margin-top' :''});
-            $(".wings_flavors").css({'margin-top' :''});
-            $(".price-two-box-section").css({'width' :'','margin-left': ''});
-            $("#head_4").css({'font-size' :'','text-align': ''});
-            $(".pc3").css({'width' :' ',});
-
-            $(".goat_head ").css({'font-size': '', 'line-height': ''});
-			$(".lefmid.nefiwidht1").css({'width': ''});
-			$(".lefmid.nefiwidht").css({'width': ''});
-			$(".innerbox").css({'paddint-top': ''});
-			$(".howie3").css({'width': '','padding-top': ''});
-			$(".lefmid1").css({'width': ''});
-			$(".fontx2.jio").css({'top': ''});
-			$(".htilr").css({'font-size': ''});
-			$(".htilr").css({'font-size': ''});
-            $(".pc_board").css({'width': ''});
-            $(".absoluteimg").css({'top': '','left':''});
-            $(".absoluteimg2").css({'top': '','left':''});
-            $(".absoluteimg3").css({'left': '','bottom':''});
-            $(".wings_1").css({'width': ''});
-            $(".wings_3").css({'width': ''});
+            $(".bg_1").css({'width': '','height': '', 'top': '', 'left': ''});
+            $(".heading").css({'width': '','margin-bottom': ''});
+            $("#head_1").css({'margin-left': ''});
+            $(".htilr").css({'font-size': ''});
+            $(".menu_items_single input").css({'font-size': ''});
+            $(".price-box-wapper").css({'gap': ''});
+            $(".single-price").css({'font-size': ''});
             $(".combo").css({'width': ''});
             $(".combo_content_bold").css({'font-size': ''});
-            $(".pc").css({'font-size': ''});
-            $(".header_input_left").css({'width': '','margin-right':''});
-            $(".wings_title input").css({'width': ''});
-            $(".menu_items_single").css({'width': ''});
-            $(".menu_items_single input").css({'font-size': ''});
-            $(".wings_flavors").css({'height': '', 'margin-top': ''});
-            $(".menu_items_wrapper").css({'padding-top': ''});
+            $(".combo_content_color").css({'font-size': ''});
+            $(".combo-price-main").css({'border-radius': '','width': '','height': ''});
+            $(".combo-price-main input").css({'font-size': ''});
+            $(".wings_Serve").css({'width': ''});
             $(".wings_Serve input").css({'font-size': ''});
-            $(".wings_title").css({'padding-top': ''});
-            
-
-            $(".chicken_burger").css({'top': '', 'right': '', 'width' : ''});
-			$(".stage img").css({'width':'' ,'height': ''});
-			$(".fontx").css({'font-size': '','height': ''});
-			$(".fontx1").css({'font-size': ''});
-			$("#back_display3").attr('style', 'display: block;');
-			$(".fontx2").css({'font-size': ''});
-			$(".inneboximg").css({'width': ''});
-			$(".topimgox").css({'width': ''});
-			$(".fontx2.jio").css({'width': '','top': '','left': '','font-size':''});
-			$(".lowerboxs").css({'margin-top': ''});
-			$(".topimgox.rti").css({'width': '','left': ''});
+            $(".logo").css({'width': '', 'margin-left': ''});
+            $("#head_5").css({'font-size': ''});
+            $("#head_6").css({'font-size': '', 'height': ''});
+            $(".absoluteimg").css({'width': '','right': ''});
+            $(".absoluteimg3").css({'width': '', 'height': '', 'top': '', 'right': ''});
+            $(".wings_flavors").css({'width': '78%', 'padding': '50px 0px'});
+            $(".bg_3").css({'width': '', 'height': '', 'top': '', 'left': ''});
+            $(".wings_title").css({'margin-top': ''});
+            $(".menu_items_wrapper").css({'gap': '', 'padding-top': '',});
+            $(".menu_items_single").css({'gap': ''});
+            $(".price-two-box-section").css({'margin-top': ''});
+            $(".bg_2").css({'top': '','left': '','width': '', 'height': ''});
+            $(".heading3").css({'margin-top': '', 'padding-top': ''});
+            $(".heading3").css({'margin-top': ''});
+            $("#head_4").css({'font-size': ''});
+            $(".price-box1").css({'padding': ''});
+            $(".wings_title input").css({'font-size': '', 'height': ''});
         }
     }
     else
     {
-        $(".header-content").css({'width': ''});
-        $(".single-price").css({'font-size' :''});
-        $(".thirdItem").css({'margin-top' :''});
-        $(".wings_flavors").css({'margin-top' :''});
-        $(".price-two-box-section").css({'width' :'','margin-left': ''});
-        $("#head_4").css({'font-size' :'','text-align': ''});
-        $(".pc3").css({'width' :' ',});
-
-        $(".goat_head ").css({'font-size': '', 'line-height': ''});
-		$(".lefmid.nefiwidht1").css({'width': ''});
-		$(".lefmid.nefiwidht").css({'width': ''});
-		$(".innerbox").css({'paddint-top': ''});
-		$(".howie3").css({'width': '','padding-top': ''});
-		$(".lefmid1").css({'width': ''});
-		$(".fontx2.jio").css({'top': ''});
-		$(".htilr").css({'font-size': ''});
-		$(".htilr").css({'font-size': ''});
-        $(".header_input_left").css({'width': '','margin-right':''});
-        $(".chicken_burger").css({'top': '', 'right': '', 'width' : ''});
-        $(".pc_board").css({'width': ''});
-        $(".absoluteimg").css({'top': '','left':''});
-        $(".absoluteimg2").css({'top': '','left':''});
-        $(".absoluteimg3").css({'left': '','bottom':''});
-        $(".wings_1").css({'width': ''});
-        $(".wings_3").css({'width': ''});
-        $(".combo").css({'width': ''});
-        $(".combo_content_bold").css({'font-size': ''});
-        $(".pc").css({'font-size': ''});
-        $(".wings_title input").css({'width': ''});
-        $(".menu_items_single").css({'width': ''});
-        $(".menu_items_single input").css({'font-size': ''});
-        $(".wings_flavors").css({'height': '', 'margin-top': ''});
-        $(".menu_items_wrapper").css({'padding-top': ''});
-        $(".wings_Serve input").css({'font-size': ''});
-        $(".wings_title").css({'padding-top': ''});
-        
-        
-		$(".stage img").css({'width':'' ,'height': ''});
-		$(".fontx").css({'font-size': '','height': ''});
-		$(".fontx1").css({'font-size': ''});
-		$("#back_display3").attr('style', 'display: block;');
-		$(".fontx2").css({'font-size': ''});
-		$(".inneboximg").css({'width': ''});
-		$(".topimgox").css({'width': ''});
-		$(".fontx2.jio").css({'width': '','top': '','left': '','font-size':''});
-		$(".lowerboxs").css({'margin-top': ''});
-		$(".topimgox.rti").css({'width': '','left': ''});
-
+        $(".bg_1").css({'width': '','height': '', 'top': '', 'left': ''});
+            $(".heading").css({'width': '','margin-bottom': ''});
+            $("#head_1").css({'margin-left': ''});
+            $(".htilr").css({'font-size': ''});
+            $(".menu_items_single input").css({'font-size': ''});
+            $(".price-box-wapper").css({'gap': ''});
+            $(".single-price").css({'font-size': ''});
+            $(".combo").css({'width': ''});
+            $(".combo_content_bold").css({'font-size': ''});
+            $(".combo_content_color").css({'font-size': ''});
+            $(".combo-price-main").css({'border-radius': '','width': '','height': ''});
+            $(".combo-price-main input").css({'font-size': ''});
+            $(".wings_Serve").css({'width': ''});
+            $(".wings_Serve input").css({'font-size': ''});
+            $(".logo").css({'width': '', 'margin-left': ''});
+            $("#head_5").css({'font-size': ''});
+            $("#head_6").css({'font-size': '', 'height': ''});
+            $(".absoluteimg").css({'width': '','right': ''});
+            $(".absoluteimg3").css({'width': '', 'height': '', 'top': '', 'right': ''});
+            $(".wings_flavors").css({'width': '78%', 'padding': '50px 0px'});
+            $(".bg_3").css({'width': '', 'height': '', 'top': '', 'left': ''});
+            $(".wings_title").css({'margin-top': ''});
+            $(".menu_items_wrapper").css({'gap': '', 'padding-top': '',});
+            $(".menu_items_single").css({'gap': ''});
+            $(".price-two-box-section").css({'margin-top': ''});
+            $(".bg_2").css({'top': '','left': '','width': '', 'height': ''});
+            $(".heading3").css({'margin-top': '', 'padding-top': ''});
+            $(".heading3").css({'margin-top': ''});
+            $("#head_4").css({'font-size': ''});
+            $(".price-box1").css({'padding': ''});
+            $(".wings_title input").css({'font-size': '', 'height': ''});
     }
 }
 // var slideIndex = 0;
