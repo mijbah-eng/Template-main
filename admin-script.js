@@ -132,7 +132,7 @@ function responsive(val)
         {
 
             // **
-            $(".bg_1").css({'width': '732px','height': '755px'});
+            $(".bg_1").css({'width': '752px','height': '813px', 'top': '-97px', 'left': '-66px'});
             $(".heading").css({'width': '97%','margin-bottom': '20px'});
             $("#head_1").css({'margin-left': '70px'});
             $(".htilr").css({'font-size': '60px'});
@@ -148,7 +148,7 @@ function responsive(val)
             $(".wings_Serve input").css({'font-size': '22px'});
             $(".logo").css({'width': '360px', 'margin-left': '200px'});
             $("#head_5").css({'font-size': '50px'});
-            $("#head_6").css({'font-size': '85px'});
+            $("#head_6").css({'font-size': '85px', 'height': '70px'});
             $(".absoluteimg").css({'width': '566px', 'height': '498px'});
             $(".absoluteimg3").css({'width': '673px', 'height': '573px', 'top': '7px', 'right': '-720px'});
             $(".wings_flavors").css({'width': '78%', 'padding': '50px 0px'});
@@ -162,6 +162,7 @@ function responsive(val)
             $(".heading3").css({'margin-top': '0px'});
             $("#head_4").css({'font-size': '46px'});
             $(".price-box1").css({'padding': '20px 20px'});
+            $(".wings_title input").css({'font-size': '60px', 'height': '54px'});
             
             // **
             // $(".header-content").css({'width': ''});
