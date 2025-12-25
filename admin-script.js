@@ -185,7 +185,7 @@ function responsive(val)
             $(".logo").css({'width': '360px', 'margin-left': '66px'});
             $("#head_5").css({'font-size': '30px'});
             $("#head_6").css({'font-size': '50px', 'height': 'fit-content'});
-            $(".absoluteimg").css({'width': '300px','right': '30%'});
+            $(".absoluteimg").css({'width': '300px','right': '40%'});
             $(".absoluteimg3").css({'width': '500px', 'height': '380px', 'top': '16px', 'right': '-450px'});
             $(".wings_flavors").css({'width': '78%', 'padding': '50px 0px'});
             $(".bg_3").css({'width': '1189px', 'height': '550px', 'top': '-15px', 'left': '-108px'});

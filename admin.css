@@ -22344,7 +22344,7 @@ input[type='text'] {
 }
 .absoluteimg {
     top: 100%;
-    right: -11%;
+    right: 12%;
     width: 255px;
     position: absolute;
     z-index: 2;
@@ -22404,7 +22404,7 @@ input[type='text'] {
     width: 422px;
     height: 420px;
     top: -69px;
-    left: -75px;
+    left: -35px;
 }
 .bg_common img {
     width: 100%;
@@ -22416,7 +22416,7 @@ input[type='text'] {
     left: -15px;
     z-index: 2;
     width: 298px;
-    height: 245px;
+    height: 270px;
 }
 .bg_3 {
     position: absolute;
