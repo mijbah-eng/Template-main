@@ -149,13 +149,13 @@ function responsive(val)
             $(".logo").css({'width': '360px', 'margin-left': '200px'});
             $("#head_5").css({'font-size': '50px'});
             $("#head_6").css({'font-size': '85px', 'height': '70px'});
-            $(".absoluteimg").css({'width': '566px', 'height': '498px'});
+            $(".absoluteimg").css({'width': '566px', 'height': '498px','right': '7%'});
             $(".absoluteimg3").css({'width': '673px', 'height': '573px', 'top': '7px', 'right': '-720px'});
             $(".wings_flavors").css({'width': '78%', 'padding': '50px 0px'});
             $(".bg_3").css({'width': '1621px', 'height': '550px', 'top': '-15px', 'left': '-108px'});
             $(".wings_title").css({'margin-top': '0px'});
             $(".menu_items_wrapper").css({'gap': '60px', 'padding-top': '31px',});
-            $(".menu_items_single").css({'gap': '10px'});
+            $(".menu_items_single").css({'gap': '25px'});
             $(".price-two-box-section").css({'margin-top': '0px'});
             $(".bg_2").css({'top': '-60px','left': '-25px','width': '520px', 'height': '594px'});
             $(".heading3").css({'margin-top': '0px'});
@@ -163,49 +163,6 @@ function responsive(val)
             $("#head_4").css({'font-size': '46px'});
             $(".price-box1").css({'padding': '20px 20px'});
             $(".wings_title input").css({'font-size': '60px', 'height': '54px'});
-            
-            // **
-            // $(".header-content").css({'width': ''});
-            // $(".single-price").css({'font-size' :''});
-            // $(".thirdItem").css({'margin-top' :''});
-            // $(".wings_flavors").css({'margin-top' :''});
-            // $(".price-two-box-section").css({'width' :'','margin-left': ''});
-            // $("#head_4").css({'font-size' :'','text-align': ''});
-            // $(".pc3").css({'width' :' ',});
-
-            // $(".goat_head ").css({'font-size': '40px', 'line-height': '108px'});
-            // $(".lefmid.nefiwidht1").css({'width': '45%'});
-            // $(".lefmid.nefiwidht").attr('style', 'width: 52%');
-            // $(".innerbox").attr('style', 'paddint-top:25px');
-            // $(".howie3").attr('style', 'width: 155px;padding-top: 16px;');
-            // $(".lefmid1").attr('style', 'width: 36%;');
-            // $(".fontx2.jio").attr('style', 'top: 175px;');
-
-            // $(".header_input_left").attr('style', 'width: 1268px;margin-right: 187px;');
-            // $(".chicken_burger").attr('style', 'top: 15px; right: -175px;  width: 160px;');
-            // $(".pc_board").attr('style', 'width: 356px;');
-            // $(".absoluteimg").attr('style', 'top: 120px; left: 284px;');
-            // $(".absoluteimg2").attr('style', 'top: 130px; left: 465px;');
-            // $(".absoluteimg3").attr('style', 'left: -358px; bottom: -181px;');
-            // $(".wings_1").attr('style', 'width: 240px;');
-            // $(".wings_3").attr('style', 'width: 500px;');
-            // $(".combo").attr('style', 'width: 225px;');
-            // $(".combo_content_bold").attr('style', 'font-size: 22px;');
-            // $(".pc").attr('style', 'font-size: 24px;');
-            // $(".wings_title input").attr('style', 'width: 233px; font-size:48px;');
-            // $(".wings_Serve input").attr('style', 'font-size: 20px;');
-            // $(".menu_items_single").attr('style', 'width: 270px;');
-            // $(".wings_flavors").attr('style', 'margin-top: 10px; height:200vh;');
-            // $(".menu_items_wrapper").attr('style', 'padding-top: 50px;');
-            // $(".wings_title").attr('style', 'padding-top: 5px;');
-
-            // $(".stage img").attr('style', 'height: 355px;');
-            // $(".fontx1").attr('style', 'font-size: 26px;');
-            // $("#back_display3").attr('style', 'display: none;');
-            // $(".fontx2").attr('style', 'font-size: 45px;');
-            // $(".inneboximg").attr('style', 'width: 415px;');
-            // $(".topimgox").attr('style', 'width: 50%;');
-            // $(".fontx2.jio").attr('style', 'width: 147px;top: 186px;left: 402px;font-size: 45px;');
         }
         else if ((window.screen.width) >= '1267' && (window.screen.width) <= '1367') 
         {
