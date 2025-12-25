@@ -149,7 +149,7 @@ function responsive(val)
             $(".logo").css({'width': '360px', 'margin-left': '200px'});
             $("#head_5").css({'font-size': '50px'});
             $("#head_6").css({'font-size': '85px', 'height': '70px'});
-            $(".absoluteimg").css({'width': '566px', 'height': '498px','right': '7%'});
+            $(".absoluteimg").css({'width': '566px','right': '7%'});
             $(".absoluteimg3").css({'width': '673px', 'height': '573px', 'top': '7px', 'right': '-720px'});
             $(".wings_flavors").css({'width': '78%', 'padding': '50px 0px'});
             $(".bg_3").css({'width': '1621px', 'height': '550px', 'top': '-15px', 'left': '-108px'});
@@ -158,7 +158,7 @@ function responsive(val)
             $(".menu_items_single").css({'gap': '25px'});
             $(".price-two-box-section").css({'margin-top': '0px'});
             $(".bg_2").css({'top': '-60px','left': '-25px','width': '520px', 'height': '594px'});
-            $(".heading3").css({'margin-top': '0px'});
+            $(".heading3").css({'margin-top': '0px', 'padding-top': '20px'});
             $(".heading3").css({'margin-top': '0px'});
             $("#head_4").css({'font-size': '46px'});
             $(".price-box1").css({'padding': '20px 20px'});
