@@ -22198,14 +22198,14 @@ input:focus {
 /* my css start */
 .heading {
     margin-left: auto;
-    width: 85%;
+    width: 93%;
     padding-bottom: 10px;
     line-height: 1px;
     position: relative;
     z-index: 2;
 }
 #head_1 {
-    max-width: 84%;
+    max-width: 76%;
     margin-left: 51px;
 }
 .header-content {
@@ -22216,6 +22216,9 @@ input:focus {
     z-index: 2;
 }
 .htilr {
+    color: #000000;
+    -webkit-text-stroke: 0.25px yellow;
+    text-shadow: 1px 4px 2px #2f2f2f;
     width: 100%;
     background-color: transparent;
     font-weight: bold;
@@ -22361,6 +22364,9 @@ input[type='text'] {
     font-size: 25px;
     text-align: center;
     margin-bottom: 6px;
+    -webkit-text-stroke: .6px black;
+    text-shadow: 2px 4px 2px #2f2f2f;
+    color: yellow;
 }
 #head_6 {
     width: 100%;
@@ -22368,6 +22374,8 @@ input[type='text'] {
     text-align: center;
     margin-top: -4px;
     height: 36px;
+    -webkit-text-stroke: 0.5px yellow;
+    text-shadow: 1px 4px 2px #2f2f2f;
 }
 .thirdItem{
   display: flex;
@@ -22388,13 +22396,13 @@ input[type='text'] {
 }
 .firstItem {
     position: relative;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 .bg_1 {
     position: absolute;
     z-index: 1;
     width: 422px;
-    height: 462px;
+    height: 420px;
     top: -69px;
     left: -75px;
 }
@@ -22482,7 +22490,7 @@ input[type='text'] {
     margin-top: 21px;
     position: relative;
     z-index: 5;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 .pc3 {
     width: 30% !important;
@@ -22491,6 +22499,7 @@ input[type='text'] {
 .innerbox {
   width: 100%;
   padding: 0px;
+  overflow: hidden;
 }
 .topboxs {
   display: flex;

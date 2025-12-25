@@ -134,8 +134,9 @@ function responsive(val)
             // **
             $(".bg_1").css({'width': '752px','height': '813px', 'top': '-97px', 'left': '-66px'});
             $(".heading").css({'width': '97%','margin-bottom': '20px'});
-            $("#head_1").css({'margin-left': '70px'});
             $(".htilr").css({'font-size': '60px'});
+            $("#head_1").css({'margin-left': '114px','font-size': '50px'});
+            $("#head_2").css({'font-size': '50px'});
             $(".menu_items_single input").css({'font-size': '25px'});
             $(".price-box-wapper").css({'gap': '30px'});
             $(".single-price").css({'font-size': '30px'});
@@ -216,8 +217,9 @@ function responsive(val)
         {
             $(".bg_1").css({'width': '','height': '', 'top': '', 'left': ''});
             $(".heading").css({'width': '','margin-bottom': ''});
-            $("#head_1").css({'margin-left': ''});
             $(".htilr").css({'font-size': ''});
+            $("#head_1").css({'margin-left': '','font-size': ''});
+            $("#head_2").css({'font-size': '50px'});
             $(".menu_items_single input").css({'font-size': ''});
             $(".price-box-wapper").css({'gap': ''});
             $(".single-price").css({'font-size': ''});
@@ -249,10 +251,11 @@ function responsive(val)
     }
     else
     {
-        $(".bg_1").css({'width': '','height': '', 'top': '', 'left': ''});
+            $(".bg_1").css({'width': '','height': '', 'top': '', 'left': ''});
             $(".heading").css({'width': '','margin-bottom': ''});
-            $("#head_1").css({'margin-left': ''});
             $(".htilr").css({'font-size': ''});
+            $("#head_1").css({'margin-left': '','font-size': ''});
+            $("#head_2").css({'font-size': '50px'});
             $(".menu_items_single input").css({'font-size': ''});
             $(".price-box-wapper").css({'gap': ''});
             $(".single-price").css({'font-size': ''});
