@@ -160,7 +160,6 @@ function responsive(val)
             $(".price-two-box-section").css({'margin-top': '0px'});
             $(".bg_2").css({'top': '-60px','left': '-25px','width': '520px', 'height': '594px'});
             $(".heading3").css({'margin-top': '0px', 'padding-top': '20px'});
-            $(".heading3").css({'margin-top': '0px'});
             $("#head_4").css({'font-size': '46px'});
             $(".price-box1").css({'padding': '20px 20px'});
             $(".wings_title input").css({'font-size': '60px', 'height': '54px'});
@@ -168,50 +167,37 @@ function responsive(val)
         else if ((window.screen.width) >= '1267' && (window.screen.width) <= '1367') 
         {
 
-            $(".header-content").css({'width': '28%'});
-            $(".single-price").css({'font-size': '20px'});
-            $(".thirdItem").css({'margin-top': '0px !important'});
-            $(".wings_flavors").css({'margin-top': '0px'});
-            $(".price-two-box-section").attr('style','width : 24%; margin-left: 10px;');
-            $("#head_4").attr('style','font-size : 38px; text-align: center;');
-            $(".pc3").attr('style','width : 29% !important;');
-            
-            $(".lefmid.nefiwidht1").css({'width': '45%'});
-            $(".lefmid.nefiwidht").attr('style', 'width: 52%');
-            $(".innerbox").attr('style', 'paddint-top:25px');
-            $(".howie3").attr('style', 'width: 155px;padding-top: 16px;');
-            $(".lefmid1").attr('style', 'width: 36%;');
-            $(".fontx2.jio").attr('style', 'top: 175px;');
-            $(".htilr").attr('style', 'font-size: 48px;');
-            $(".header_input_left").attr('style', 'width: 626px;margin-right: 187px;');
-            $(".chicken_burger").attr('style', 'top: 15px; right: -175px;  width: 160px;');
-            $(".pc_board").attr('style', 'width: 356px;');
-            // $(".absoluteimg").attr('style', 'top: 120px; left: 284px;');
-            // $(".absoluteimg2").attr('style', 'top: 130px; left: 465px;');
-            // $(".absoluteimg3").attr('style', 'left: -358px; bottom: -181px;');
-            $(".wings_1").attr('style', 'width: 240px;');
-            $(".wings_3").attr('style', 'width: 500px;');
-            $(".combo").attr('style', 'width: 225px;');
-            $(".combo_content_bold").attr('style', 'font-size: 22px;');
-            $(".pc").attr('style', 'font-size: 24px;');
-            $(".wings_title input").attr('style', 'width: 233px; font-size:48px;');
-            $(".wings_Serve input").attr('style', 'font-size: 20px;');
-            $(".menu_items_single").attr('style', 'width: 210px;');
-            $(".wings_flavors").attr('style', 'margin-top: 10px; height:200vh;');
-            $(".menu_items_wrapper").attr('style', 'padding-top: 50px;');
-            $(".wings_title").attr('style', 'padding-top: 5px;');
-            
-
-            $(".stage img").attr('style', 'height: 220px;');             // image
-            $(".fontx").attr('style', 'font-size: 30px;height: auto;'); // Title
-            $(".fontx1").attr('style', 'font-size: 20px;');            //  Description
-            $("#back_display3").attr('style', 'display: none;');      //  Backgrount Image icon
-            $(".fontx2").attr('style', 'font-size: 30px;');           // Price
-            $(".inneboximg").attr('style', 'width: 300px;');          //  Images
-            $(".topimgox").attr('style', 'width: 50%;');              //  Image Wrapper, Content Wrapper
-            $(".fontx2.jio").attr('style', 'width: 147px;top: 130px;left: 191px;font-size: 28px;');  // absolute item 
-            $(".lowerboxs").attr('style', 'margin-top: 20px;');  // lowerBoxs
-            $(".topimgox.rti").attr('style', 'width: 222px;left: -46px;');  // 
+            $(".bg_1").css({'width': '596px','height': '554px', 'top': '-97px', 'left': '-66px'});
+            $(".heading").css({'width': '97%','margin-bottom': '0px'});
+            $(".htilr").css({'font-size': '37px'});
+            $("#head_1").css({'margin-left': '114px','font-size': '37px'});
+            $("#head_2").css({'font-size': '37px'});
+            $(".menu_items_single input").css({'font-size': '20px'});
+            $(".price-box-wapper").css({'gap': '10px'});
+            $(".single-price").css({'font-size': '16px'});
+            $(".combo").css({'width': '218px'});
+            $(".combo_content_bold").css({'font-size': '17px'});
+            $(".combo_content_color").css({'font-size': '11px'});
+            $(".combo-price-main").css({'border-radius': '13px','width': ' 87%','height': '87%'});
+            $(".combo-price-main input").css({'font-size': '18px'});
+            $(".wings_Serve").css({'width': '76%'});
+            $(".wings_Serve input").css({'font-size': '12px'});
+            $(".logo").css({'width': '360px', 'margin-left': '66px'});
+            $("#head_5").css({'font-size': '30px'});
+            $("#head_6").css({'font-size': '50px', 'height': 'fit-content'});
+            $(".absoluteimg").css({'width': '300px','right': '30%'});
+            $(".absoluteimg3").css({'width': '500px', 'height': '380px', 'top': '16px', 'right': '-450px'});
+            $(".wings_flavors").css({'width': '78%', 'padding': '50px 0px'});
+            $(".bg_3").css({'width': '1189px', 'height': '550px', 'top': '-15px', 'left': '-108px'});
+            $(".wings_title").css({'margin-top': '0px'});
+            $(".menu_items_wrapper").css({'gap': '60px', 'padding-top': '31px',});
+            $(".menu_items_single").css({'gap': '16px'});
+            $(".price-two-box-section").css({'margin-top': '0px'});
+            $(".bg_2").css({'top': '10px','left': '-25px','width': '520px', 'height': '594px'});
+            $(".heading3").css({'margin-top': '0px', 'padding-top': '115px'});
+            $("#head_4").css({'font-size': '37px'});
+            $(".price-box1").css({'padding': '20px'});
+            $(".wings_title input").css({'font-size': '37px', 'height': '54px'});
         } 
         else
         {
@@ -243,7 +229,6 @@ function responsive(val)
             $(".price-two-box-section").css({'margin-top': ''});
             $(".bg_2").css({'top': '','left': '','width': '', 'height': ''});
             $(".heading3").css({'margin-top': '', 'padding-top': ''});
-            $(".heading3").css({'margin-top': ''});
             $("#head_4").css({'font-size': ''});
             $(".price-box1").css({'padding': ''});
             $(".wings_title input").css({'font-size': '', 'height': ''});
@@ -279,7 +264,6 @@ function responsive(val)
             $(".price-two-box-section").css({'margin-top': ''});
             $(".bg_2").css({'top': '','left': '','width': '', 'height': ''});
             $(".heading3").css({'margin-top': '', 'padding-top': ''});
-            $(".heading3").css({'margin-top': ''});
             $("#head_4").css({'font-size': ''});
             $(".price-box1").css({'padding': ''});
             $(".wings_title input").css({'font-size': '', 'height': ''});
