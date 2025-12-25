@@ -22217,7 +22217,7 @@ input:focus {
 }
 .htilr {
     color: #000000;
-    -webkit-text-stroke: 0.25px yellow;
+    -webkit-text-stroke: 0.7px white;
     text-shadow: 1px 4px 2px #2f2f2f;
     width: 100%;
     background-color: transparent;
@@ -22263,7 +22263,7 @@ input[type='text'] {
     gap: 22px;
 }
 .combo {
-    width: 180px;
+    width: 190px;
     margin: auto;
     border: 2px solid #7b8833;
     border-radius: 8px;

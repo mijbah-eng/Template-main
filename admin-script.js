@@ -219,7 +219,7 @@ function responsive(val)
             $(".heading").css({'width': '','margin-bottom': ''});
             $(".htilr").css({'font-size': ''});
             $("#head_1").css({'margin-left': '','font-size': ''});
-            $("#head_2").css({'font-size': '50px'});
+            $("#head_2").css({'font-size': ''});
             $(".menu_items_single input").css({'font-size': ''});
             $(".price-box-wapper").css({'gap': ''});
             $(".single-price").css({'font-size': ''});
@@ -255,7 +255,7 @@ function responsive(val)
             $(".heading").css({'width': '','margin-bottom': ''});
             $(".htilr").css({'font-size': ''});
             $("#head_1").css({'margin-left': '','font-size': ''});
-            $("#head_2").css({'font-size': '50px'});
+            $("#head_2").css({'font-size': ''});
             $(".menu_items_single input").css({'font-size': ''});
             $(".price-box-wapper").css({'gap': ''});
             $(".single-price").css({'font-size': ''});
