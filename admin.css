@@ -22458,7 +22458,7 @@ input[type='text'] {
   padding-right: 50px;
   display: flex;
   justify-content: center;
-  gap: 8px;
+  gap: 30px;
 }
 
 .menu_items_single {
@@ -22466,6 +22466,26 @@ input[type='text'] {
     display: flex;
     flex-direction: column;
     gap: 4px;
+}
+.menu_item_input_container {
+    position: relative;
+}
+.menu_item_input_container img {
+    width: 7px;
+    /* height: 45px; */
+    position: absolute;
+    top: 0;
+    /* left: -10px; */
+    transform: rotate(-14deg);
+}
+.chilli-1 {
+    left: -10px;
+}
+.chilli-2 {
+    left: -20px;
+}
+.chilli-3 {
+    left: -30px;
 }
 
 .menu_items_single input {
