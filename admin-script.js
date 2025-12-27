@@ -163,7 +163,7 @@ function responsive(val)
             $("#head_4").css({'font-size': '46px'});
             $(".price-box1").css({'padding': '20px 20px'});
             $(".wings_title input").css({'font-size': '60px', 'height': '54px'});
-            $(".menu_item_input_container img").css({'width': '12px', 'top': '-4px'});
+            $(".menu_item_input_container img").css({'width': '12px', 'top': '4px'});
             $(".chilli-2").css({'left': '-25px'});
             $(".chilli-3").css({'left': '-40px'});
 
